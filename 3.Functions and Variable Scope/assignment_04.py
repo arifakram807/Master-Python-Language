@@ -15,7 +15,8 @@ Example:
 # Your code below:
 
 
-
+def last_list(*args):
+     return args[-1 :len(args)]
 
 
 
